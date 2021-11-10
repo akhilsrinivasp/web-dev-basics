@@ -1,0 +1,38 @@
+body{
+    background-color: #E6DDC4;
+}
+        
+hr{
+    border-color:  #181D31;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+}
+
+h1{
+    color:#678983;
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
+
+table{
+    font-size: 20px;
+}
+h3{
+    color:#678983;
+}
+
+a{
+    color: darkslateblue ;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+img:hover{
+    background-color: aqua;
+}
